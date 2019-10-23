@@ -3,7 +3,7 @@
     "name": "Tic Tic Tac",
     "icons": [
         {
-            "src": "favicon.png",
+            "src": "/tic-tic-tac/favicon.png",
             "sizes": "256x256",
             "type": "image/png"
         }
