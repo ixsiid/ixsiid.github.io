@@ -1,0 +1,14 @@
+{
+    "short_name": "TicTicTac",
+    "name": "Tic Tic Tac",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/tic-tic-tac/app.html",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
